@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "name": "Food",
+    "amount": 200.0
+  },
+  {
+    "name": "Snacks",
+    "amount": 150.0
+  }
+]
